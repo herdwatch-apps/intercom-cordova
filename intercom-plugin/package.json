@@ -1,12 +1,12 @@
 {
-  "name": "cordova-plugin-intercom",
+  "name": "@herdwatch/cordova-plugin-intercom",
   "version": "14.0.2",
   "description": "Official Cordova plugin for Intercom",
   "author": "Intercom",
   "license": "MIT License",
   "homepage": "https://github.com/intercom/intercom-cordova#readme",
   "cordova": {
-    "id": "cordova-plugin-intercom",
+    "id": "@herdwatch/cordova-plugin-intercom",
     "platforms": [
       "ios",
       "android"
